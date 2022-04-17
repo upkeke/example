@@ -52,3 +52,4 @@ print(f"b.by={b._B__y}")
 print(a.__dict__)
 print(b.__dict__)
 print("hello github")
+x=1
