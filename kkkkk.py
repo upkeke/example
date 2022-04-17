@@ -18,7 +18,7 @@ for i in x:
     print(i)
     n=n+1
 print(x)
-
+fff=12
 
 
 #for n in [1,10]:
